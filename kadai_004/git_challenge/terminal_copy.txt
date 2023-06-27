@@ -1,0 +1,3 @@
+PS C:\Users\User\OneDrive\デスクトップ\kadai_004\git_challenge> git log --oneline
+4504a60 (HEAD -> master) 日本語訳を追記
+1d15dd4 hello_world.txtを追加
